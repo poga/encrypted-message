@@ -12,6 +12,7 @@
   ],
   "author": "Poga Po<poga.bahamut@gmail.com>",
   "license": "MIT",
+  "repository": "poga/encrypted-message",
   "dependencies": {
     "buffer-json": "^1.0.0",
     "ed2curve": "^0.2.1",
