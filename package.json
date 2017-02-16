@@ -1,6 +1,6 @@
 {
   "name": "encrypted-message",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "send encrypted message with libsodium",
   "main": "index.js",
   "scripts": {
