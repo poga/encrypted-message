@@ -1,0 +1,22 @@
+{
+  "name": "encrypted-message",
+  "version": "1.0.0",
+  "description": "send encrypted message with libsodium",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "sodium",
+    "encryption"
+  ],
+  "author": "Poga Po<poga.bahamut@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "buffer-json": "^1.0.0",
+    "ed2curve": "^0.2.1",
+    "sodium-encryption": "^1.2.2",
+    "sodium-signatures": "^2.0.0",
+    "tape": "^4.6.3"
+  }
+}
