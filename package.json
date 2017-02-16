@@ -17,7 +17,9 @@
     "buffer-json": "^1.0.0",
     "ed2curve": "^0.2.1",
     "sodium-encryption": "^1.2.2",
-    "sodium-signatures": "^2.0.0",
+    "sodium-signatures": "^2.0.0"
+  },
+  "devDependencies": {
     "tape": "^4.6.3"
   }
 }
